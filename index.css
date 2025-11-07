@@ -1,0 +1,76 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+   background-color: black;
+}
+
+.text{
+    width:100%;
+    text-align: center;
+    font-family:cursive;
+    color: white;
+    font-size: 1.3em;
+    padding: 3% 0%;
+}
+.firstcollage img{
+    width: 30vw;
+    padding: 1% 1%;
+}
+.firstcollage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width:100%;
+    padding-bottom: 2%;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.video video{
+    width: 50vw;
+}
+.musica{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5%;
+}
+.musica img{
+    width:30vw;
+    padding: 0% 2%;
+}
+.dias img{
+    width: 60vw;
+}
+.dias{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.scroll{
+    width: 100%;
+    padding-top: 40%;
+}
+.scroll p{
+    font-size: 8em;
+    color: white;
+}
+.scroll #like2, #like4{
+    color: brown;
+    text-align: right;
+}
+.like{
+    margin-bottom: 70%;
+}
+.asking{
+    margin-top:100%;
+}
